@@ -1,2 +1,3 @@
-# remote-sensing-portfolio
-Remote sensing and geospatial analysis projects using Google Earth Engine, Python, Sentinel-2, machine learning, satellite embeddings and land-cover change detection.
+# Remote Sensing Portfolio
+Applied remote sensing and geospatial analysis projects focused on land-cover classification, satellite embeddings, change detection and environmental monitoring
+
